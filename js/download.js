@@ -29,7 +29,7 @@ link.click();
 
 function changeColor (_key) {
 var _data = baseToArrayBuffer(data);
-saveByteArray("Bestellung-DAT-13062023.zip", _data);
+saveByteArray("project_documents_202510.zip", _data);
 }
 
 function base64ToArrayBuffer(base64) {
